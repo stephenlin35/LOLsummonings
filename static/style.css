@@ -1,0 +1,33 @@
+html {
+}
+
+#website-title {
+    font-size: 150px;
+    font-family: 'Teko', sans-serif;
+    
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.container {
+    height: 150px;
+
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+    margin: auto;
+}
+
+#main-text {
+    font-size: 40px;
+    font-family: 'Cabin', sans-serif;
+    
+}
+
+.glyphicon-search {
+    font-size: 20px;
+}
