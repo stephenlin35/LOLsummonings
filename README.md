@@ -8,6 +8,6 @@ Functions:
 - Get back champion lore or stats from Riot API based on champion search
 
 Todos:
-- Build home page
-- Learn and use jQuery to retrieve champion name
-- Build champion info page
+- [ ] Build home page
+- [ ] Use jQuery to retrieve champion name
+- [ ] Build champion info page
